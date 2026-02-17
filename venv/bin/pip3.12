@@ -1,4 +1,4 @@
-#!/home/bakhtiyorov/Telegram-Bot/Projects/Kitoblar-bot/kitoblar-bot/venv/bin/python3
+#!/home/bakhtiyorov/Telegram-bot/Projects/Kitoblar-Bot/kitoblar-bot/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
